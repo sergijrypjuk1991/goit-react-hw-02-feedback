@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sergijrypjuk1991/static/css/main.95544866.css",
-    "main.js": "/sergijrypjuk1991/static/js/main.8c10ac6c.js",
-    "index.html": "/sergijrypjuk1991/index.html",
-    "main.95544866.css.map": "/sergijrypjuk1991/static/css/main.95544866.css.map",
-    "main.8c10ac6c.js.map": "/sergijrypjuk1991/static/js/main.8c10ac6c.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.95544866.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.8c10ac6c.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.95544866.css.map": "/goit-react-hw-02-feedback/static/css/main.95544866.css.map",
+    "main.8c10ac6c.js.map": "/goit-react-hw-02-feedback/static/js/main.8c10ac6c.js.map"
   },
   "entrypoints": [
     "static/css/main.95544866.css",
